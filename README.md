@@ -25,9 +25,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
 
 🔗 **Repositório:** [Projeto 1](https://github.com/EstevaoBastos/Projeto_1)  
-🌎 **Deploy:** [Acesse aqui](https://seu-site.com)  
-
-![Imagem do Projeto](https://github.com/seuusuario/projeto1/raw/main/screenshot.png)  
+🌎 **Deploy:** [Acesse aqui](https://docesouronovo.com.br/)  
 
 ---
 
