@@ -29,10 +29,6 @@
 
 ---
 
-### 🚀 [Outro Projeto](https://github.com/EstevaoBastos/Projeto_2)  
-📝 Pequena descrição do projeto e funcionalidades.  
-
-
 
 ## 📫 Contato  
 📩 **E-mail:** estevao.melo90@gmail.com  
